@@ -1,1 +1,1 @@
-# .github
+# OpenBankingProject.ch
